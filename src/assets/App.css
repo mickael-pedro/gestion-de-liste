@@ -1,0 +1,33 @@
+* {
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin: 0;
+    resize: none;
+    transition: all 187ms Cubic-Bezier(0, 0, 0, 1);
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+.MuiSvgIcon-root {
+    color: #646e80;
+    cursor: pointer;
+}
+
+.MuiSvgIcon-root:hover {
+    color: #3c424e;
+}
+
+.delete-icon:hover {
+    color: rgb(230, 0, 0);
+}
+
+.done-icon {
+    color: rgb(2, 189, 2)
+}
+
+.done-icon:hover {
+    color: rgb(1, 131, 1)
+}

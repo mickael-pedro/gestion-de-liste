@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gestion-de-liste/static/css/main.3b175830.css",
+    "main.js": "/gestion-de-liste/static/js/main.45fb4bb3.js",
+    "static/js/787.37d88450.chunk.js": "/gestion-de-liste/static/js/787.37d88450.chunk.js",
+    "index.html": "/gestion-de-liste/index.html",
+    "main.3b175830.css.map": "/gestion-de-liste/static/css/main.3b175830.css.map",
+    "main.45fb4bb3.js.map": "/gestion-de-liste/static/js/main.45fb4bb3.js.map",
+    "787.37d88450.chunk.js.map": "/gestion-de-liste/static/js/787.37d88450.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b175830.css",
+    "static/js/main.45fb4bb3.js"
+  ]
+}
